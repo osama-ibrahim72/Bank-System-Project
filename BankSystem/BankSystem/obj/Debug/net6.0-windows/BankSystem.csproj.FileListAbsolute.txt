@@ -1,0 +1,76 @@
+H:\TCP\BankSystem\BankSystem\bin\Debug\net6.0-windows\BankSystem.exe
+H:\TCP\BankSystem\BankSystem\bin\Debug\net6.0-windows\BankSystem.deps.json
+H:\TCP\BankSystem\BankSystem\bin\Debug\net6.0-windows\BankSystem.runtimeconfig.json
+H:\TCP\BankSystem\BankSystem\bin\Debug\net6.0-windows\BankSystem.dll
+H:\TCP\BankSystem\BankSystem\bin\Debug\net6.0-windows\BankSystem.pdb
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.csproj.AssemblyReference.cache
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Admin.resources
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Home.resources
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.csproj.GenerateResource.cache
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.GeneratedMSBuildEditorConfig.editorconfig
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.AssemblyInfoInputs.cache
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.AssemblyInfo.cs
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.csproj.CoreCompileInputs.cache
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.dll
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\refint\BankSystem.dll
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.pdb
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.genruntimeconfig.cache
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\ref\BankSystem.dll
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Add_bank.resources
+H:\TCP\BankSystem\BankSystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+H:\TCP\BankSystem\BankSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+H:\TCP\BankSystem\BankSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+H:\TCP\BankSystem\BankSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+H:\TCP\BankSystem\BankSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\TCP\BankSystem\BankSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.csproj.CopyComplete
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Add_branch.resources
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Add_loen.resources
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.add_employe.resources
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Employee.resources
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.log_in_admin.resources
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Customer.resources
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Log_cus.resources
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Add_acc.resources
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Add_cus.resources
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Loen_req.resources
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Log_emp.resources
+H:\TCP\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Properties.Resources.resources
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\bin\Debug\net6.0-windows\BankSystem.exe
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\bin\Debug\net6.0-windows\BankSystem.deps.json
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\bin\Debug\net6.0-windows\BankSystem.runtimeconfig.json
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\bin\Debug\net6.0-windows\BankSystem.dll
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\bin\Debug\net6.0-windows\BankSystem.pdb
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.csproj.AssemblyReference.cache
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Add_loen.resources
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Add_acc.resources
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Add_bank.resources
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Add_branch.resources
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Add_cus.resources
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.add_employe.resources
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Admin.resources
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Customer.resources
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Employee.resources
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Home.resources
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Loen_req.resources
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Log_cus.resources
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Log_emp.resources
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.log_in_admin.resources
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.Properties.Resources.resources
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.csproj.GenerateResource.cache
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.AssemblyInfoInputs.cache
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.AssemblyInfo.cs
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.csproj.CopyComplete
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.dll
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\refint\BankSystem.dll
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.pdb
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\BankSystem.genruntimeconfig.cache
+C:\Users\osama ibrahim\Desktop\data_base_project1_S21_S22_S29_S30_20200069_20200131_20200119_20200218_20200404_20200548\BankSystem\BankSystem\obj\Debug\net6.0-windows\ref\BankSystem.dll

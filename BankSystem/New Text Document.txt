@@ -1,0 +1,15 @@
+using (SqlCommand StrQuer = new SqlCommand("SELECT * FROM admins WHERE username = '"+user.Text+"' AND password = '"+pass.Text+"'", con))
+            {
+                StrQuer.Parameters.AddWithValue("@userid", dummyun);
+                
+                SqlDataReader dr = StrQuer.ExecuteReader();
+                if(dr.HasRows)
+                {
+                    MessageBox.Show("loginSuccess");
+                }
+                else
+                {
+                    //invalid login
+                }
+
+            }

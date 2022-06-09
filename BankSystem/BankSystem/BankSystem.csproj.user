@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Add_bank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add_branch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="add_employe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add Loen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add_acc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add_cus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Loen_req.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Log_emp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Log_cus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="log_in_admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

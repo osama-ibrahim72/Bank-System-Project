@@ -1,0 +1,17 @@
+ con.Open(); 
+            SqlDataAdapter sda = new SqlDataAdapter("Select username from admins Where username='" + user.Text + "' and password='" + pass.Text + "'   ", con);
+            DataTable dt = new System.Data.DataTable();
+            sda.Fill(dt);
+            if (dt.Rows.Count == 1)
+            {
+                con.Close();
+                this.Hide();
+                Admin ss = new BankSystem.Admin();
+                ss.Show();
+                this.Close();
+
+            }
+            else{
+                con.Close();
+                MessageBox.Show("Wrong");
+            }
